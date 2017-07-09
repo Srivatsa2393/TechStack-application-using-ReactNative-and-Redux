@@ -6,4 +6,4 @@ export default combineReducers({
 });
 
 //console.log(store.getState());
-//{libraries : []}
+//{libraries : [{id:1, title:'Webpack'}]}
